@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Scrambble</string>
+    <string name="instruction">Unscramble the word using all the letters</string>
+    <string name="enter_your_word">Enter your word</string>
+    <string name="wrong_guess">Wrong Guess</string>
+    <string name="word_count">%d/10</string>
+    <string name="score">Score: %d</string>
+</resources>
